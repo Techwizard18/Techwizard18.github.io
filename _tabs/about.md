@@ -1,13 +1,13 @@
+```
 ---
-Title:about
-icon: fas fa-info-circle
-order: 4
+title: about
 ---
-Hi, I'm **Stephen Wafula Nyongesa**an Electrical and Electronics Engineering Student.
+Hi, I'm **Stephen Wafula Nyongesa**, an Electrical and Electronics Engineering Student.
 
--Skilled in Electrical and Electronics Engineering.
--passionate about Ctfs
--Building a innovative Systems that secure and empower digital world
--Exploring AI, ML and DL
+- Skilled in Electrical and Electronics Engineering.
+- Passionate about CTFs.
+- Building innovative systems that secure and empower the digital world.
+- Exploring AI, ML, and DL.
+```
 
  
