@@ -20,7 +20,7 @@ tagline: " Electrical and Electronics Engineer|Ethical Hacker|Software Developer
 
 description: >- # used by seo meta and the atom feed
   "I'm a passionate Electrical and Electronics Engineer, certified Ethical Hacker, Software Developer, and AI enthusiast. With expertise in circuit design, penetration testing and machine learning solutions, I build innovative systems that secure and empower the digital world. Let's connect to turn ideas into reality!"
-  # Fill in the protocol & hostname for your site.
+# Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
