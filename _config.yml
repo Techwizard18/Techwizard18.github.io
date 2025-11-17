@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Stephen Wafula Nyongesa" # the main title
+title: Stephen Wafula Nyongesa # the main title
 
-tagline: " Electrical and Electronics Engineer|Ethical Hacker|Software Developer|AI"A text-focused Jekyll theme # it will display as the subtitle
+tagline: Electrical and Electronics Engineer|Ethical Hacker|Software Developer|AI # A text-focused Jekyll theme # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   
