@@ -1,5 +1,7 @@
 ---
 title: about
+icon: fas fa-info-circle
+order: 4
 ---
 Hi, I'm **Stephen Wafula Nyongesa**, an Electrical and Electronics Engineering Student.
 
