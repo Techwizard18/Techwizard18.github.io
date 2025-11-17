@@ -1,4 +1,3 @@
-```
 ---
 title: about
 ---
@@ -8,6 +7,5 @@ Hi, I'm **Stephen Wafula Nyongesa**, an Electrical and Electronics Engineering S
 - Passionate about CTFs.
 - Building innovative systems that secure and empower the digital world.
 - Exploring AI, ML, and DL.
-```
 
  
