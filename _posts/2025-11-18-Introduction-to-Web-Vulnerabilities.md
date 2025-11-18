@@ -1,7 +1,7 @@
 ---
 title: Introduction To Web Vulnerabilities
 date: 2025-11-18
-Categories: [Ethical Hacking, Web]
+categories: [Ethical Hacking, Web]
 tags: [XSS, SQL Injection, OWASP top ten]
 ---
 
