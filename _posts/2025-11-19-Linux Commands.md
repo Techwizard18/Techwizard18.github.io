@@ -1,5 +1,5 @@
 ---
-title: Basic linux Commands
+title: #Basic linux Commands
 date: 2025-11-19
 time: 16:45
 category: [Ethical Hacking,Linux]
